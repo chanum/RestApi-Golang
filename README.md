@@ -1,6 +1,6 @@
 # RestApi-Golang
 
-Simple Go RestApi in memory using [Mux](https://github.com/gorilla/mux)
+Simple Go RestApi in memory using [Gorilla Mux](https://github.com/gorilla/mux)
 
 ## How to run
 
